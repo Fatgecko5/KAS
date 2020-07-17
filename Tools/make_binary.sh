@@ -1,0 +1,1 @@
+/usr/bin/msbuild ../Source/KAS_linux.csproj /t:Clean,Build /p:Configuration=Release
